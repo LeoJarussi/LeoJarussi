@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Leonardo Jarussi , seja bem-vindo ao meu perfil. Espero que goste 😉👨🏻‍💻
 
-- 🌱 Estudando HTML , CSS e JavaScript (desejo ser fullstack)
+- 🌱 Estudando HTML , CSS e JavaScript
 - 🤔 Dicas para melhorar os meu códigos e também o pessoal para ser um profissonal na área
 
  <div class="status">
